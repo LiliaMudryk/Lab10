@@ -1,0 +1,4 @@
+Happy birthday, %NAME%!
+Sweet %AGE%!
+Wish you al the best!
+
